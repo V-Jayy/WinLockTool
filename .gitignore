@@ -1,0 +1,4 @@
+tools/
+*.zip
+__winlock_probe__
+*.__winlock_probe__
